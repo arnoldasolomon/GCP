@@ -1,2 +1,2 @@
 # GCP
-this is a public repository and open to all
+I am editing the README file. Adding some more details about the project description.
